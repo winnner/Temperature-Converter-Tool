@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Temperature Converter Tool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Temperature_Converter_Tool_jar</output-path>
+    <root id="archive" name="JavaFX App.jar">
+      <element id="module-output" name="JavaFX App" />
+    </root>
+  </artifact>
+</component>
